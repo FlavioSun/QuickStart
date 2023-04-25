@@ -1,0 +1,18 @@
+Name: Pages
+Type: FolderType
+Children:
+- Name: Panneau1
+  Id: g=8deda6e5233179b48d37b5cf907ddd0e
+  Supertype: Panel
+  ReferenceType: HasComponent
+  Children:
+  - Name: Width
+    Type: BaseVariableType
+    DataType: Size
+    ModellingRule: Optional
+    Value: 300.0
+  - Name: Height
+    Type: BaseVariableType
+    DataType: Size
+    ModellingRule: Optional
+    Value: 300.0
