@@ -33,5 +33,9 @@ Project:
    Uri: 'urn:FTOptix:Alarm'
    Module: FTOptix.Alarm
    Version: 1.1
+  9:
+   Uri: 'urn:FTOptix:Recipe'
+   Module: FTOptix.Recipe
+   Version: 1.0
  Nodes:
  - File: Nodes/QuickStart.yaml
