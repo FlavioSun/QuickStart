@@ -29,5 +29,9 @@ Project:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
    Version: 1.0
+  8:
+   Uri: 'urn:FTOptix:Alarm'
+   Module: FTOptix.Alarm
+   Version: 1.1
  Nodes:
  - File: Nodes/QuickStart.yaml
