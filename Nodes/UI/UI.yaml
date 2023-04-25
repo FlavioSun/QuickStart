@@ -126,5 +126,22 @@ Children:
       Value: 300.0
     - Name: Objet1
       Type: BaseObjectType
+  - Name: Image1
+    Type: Image
+    Children:
+    - Name: Path
+      Type: BaseDataVariableType
+      DataType: ResourceUri
+      Value: ""
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 50.0
+    - Name: Height
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 50.0
 - File: Screens/Screens.yaml
 - File: Pages/Pages.yaml
